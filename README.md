@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
   
-💻 &nbsp;I'm working as a software engineer @[economize.cloud](https://www.economize.cloud/).\
+💻 &nbsp;I'm a software engineer @[economize.cloud](https://www.economize.cloud/).\
 💼 &nbsp;I love working at startups ♥️.\
 🙋‍♂️ &nbsp;Love to Code, solve problems, design systems (LLD & HLD), play with AWS.
 
@@ -17,3 +17,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VasanthThoraliKumaran&theme=tokyonight" alt="mystreak"/>
 ![VasanthThoraliKumaran's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasanthThoraliKumaran&theme=tokyonight&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasanthThoraliKumaran&layout=compact)
+
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/vasanthtk/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/15120450/vasanththoralikumaran?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+   </div>
+</p>

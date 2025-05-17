@@ -1,9 +1,12 @@
-# Hi there, I'm Vasanth 👋
+# Hey there, I'm Vasanth! 👋
 
-## About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working at Maybank Malaysia.
-- 💬 More into full stack development.
-- Exploring open source contributions.
+🔭 Currently crafting awesome solutions at **Maybank Malaysia**.  
+💡 Passionate about **Full Stack Development** — turning ideas into reality with clean, efficient code.  
+🌱 Always exploring the world of **open source**, eager to learn and contribute.  
+🚀 Driven by curiosity and a love for building impactful software.
 
-Thanks for visiting my profile! 🚀
+---
+
+Feel free to connect! Let's build something amazing together. ✨
